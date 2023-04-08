@@ -1,3 +1,20 @@
+# KungFu CodeWars
+
+Attempt to return a suitable response from Oogway, beware, he's frustrated about so many people questioning his choice of the Dragon Warrior!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Make your own CodeWars
 
 You've spent the past few weeks solving katas on CodeWars, and you might think that they're written by an elite cabal of software geniuses (or not if you've run across a few less-than-stellar katas!). Not so - they're written by ordinary programmers, and you're now officially School of Code-qualified to join in and give writing your own a try.
